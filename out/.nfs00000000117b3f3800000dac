@@ -1,0 +1,56 @@
+05:51 INFO    : Injected signal in H1:
+05:51 INFO    :   optimal SNR = 10.62
+05:51 INFO    :   matched filter SNR = 10.46+1.13j
+05:51 INFO    :   mass_1 = 33.623390197753906
+05:51 INFO    :   mass_2 = 38.39516830444336
+05:51 INFO    :   geocent_time = 1241739188.514831
+05:51 INFO    :   chi_1 = 0.16195380687713626
+05:51 INFO    :   chi_2 = 0.397419810295105
+05:51 INFO    :   luminosity_distance = 1293.553955078125
+05:51 INFO    :   theta_jn = 1.068930983543396
+05:51 INFO    :   psi = 0.6694290041923523
+05:51 INFO    :   phase = 3.388108015060425
+05:51 INFO    :   ra = 2.5907530784606934
+05:51 INFO    :   dec = 0.03842559829354286
+05:51 INFO    : Injected signal in L1:
+05:51 INFO    :   optimal SNR = 14.83
+05:51 INFO    :   matched filter SNR = 15.57+0.28j
+05:51 INFO    :   mass_1 = 33.623390197753906
+05:51 INFO    :   mass_2 = 38.39516830444336
+05:51 INFO    :   geocent_time = 1241739188.514831
+05:51 INFO    :   chi_1 = 0.16195380687713626
+05:51 INFO    :   chi_2 = 0.397419810295105
+05:51 INFO    :   luminosity_distance = 1293.553955078125
+05:51 INFO    :   theta_jn = 1.068930983543396
+05:51 INFO    :   psi = 0.6694290041923523
+05:51 INFO    :   phase = 3.388108015060425
+05:51 INFO    :   ra = 2.5907530784606934
+05:51 INFO    :   dec = 0.03842559829354286
+06:17 INFO    : Injected signal in H1:
+06:17 INFO    :   optimal SNR = 10.62
+06:17 INFO    :   matched filter SNR = 11.52+0.26j
+06:17 INFO    :   mass_1 = 33.623390197753906
+06:17 INFO    :   mass_2 = 38.39516830444336
+06:17 INFO    :   geocent_time = 1241739188.514831
+06:17 INFO    :   chi_1 = 0.16195380687713626
+06:17 INFO    :   chi_2 = 0.397419810295105
+06:17 INFO    :   luminosity_distance = 1293.553955078125
+06:17 INFO    :   theta_jn = 1.068930983543396
+06:17 INFO    :   psi = 0.6694290041923523
+06:17 INFO    :   phase = 3.388108015060425
+06:17 INFO    :   ra = 2.5907530784606934
+06:17 INFO    :   dec = 0.03842559829354286
+06:17 INFO    : Injected signal in L1:
+06:17 INFO    :   optimal SNR = 14.83
+06:17 INFO    :   matched filter SNR = 13.42+1.13j
+06:17 INFO    :   mass_1 = 33.623390197753906
+06:17 INFO    :   mass_2 = 38.39516830444336
+06:17 INFO    :   geocent_time = 1241739188.514831
+06:17 INFO    :   chi_1 = 0.16195380687713626
+06:17 INFO    :   chi_2 = 0.397419810295105
+06:17 INFO    :   luminosity_distance = 1293.553955078125
+06:17 INFO    :   theta_jn = 1.068930983543396
+06:17 INFO    :   psi = 0.6694290041923523
+06:17 INFO    :   phase = 3.388108015060425
+06:17 INFO    :   ra = 2.5907530784606934
+06:17 INFO    :   dec = 0.03842559829354286
